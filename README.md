@@ -1,5 +1,16 @@
 # Greenhouse Gas Emission Prediction from Industrial Dataset
 
+## Project Progress Files
+
+This repository contains several zip files that document the progress and deliverables of the project:
+
+- **week1.zip**: Contains the work and code completed during Week 1.
+- **week2.zip**: Contains the work and code completed during Week 2.
+- **week3.zip**: Contains the work and code completed during Week 3.
+- **final_project.zip**: This is the final project submission, including all code, documentation, and results.
+
+These files allow you to track the development of the project over time and access the final deliverable in a single archive.
+
 ## Project Overview
 This project aims to predict greenhouse gas (GHG) emissions from industrial processes using machine learning techniques. Accurate prediction of GHG emissions is crucial for monitoring environmental impact, regulatory compliance, and developing strategies for emission reduction.
 
